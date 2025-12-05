@@ -1,0 +1,6 @@
+model_list:
+  - model_name: google/gemini-2.5-flash-preview-09-2025
+    litellm_params:
+      model: google/gemini-2.5-flash-preview-09-2025
+      api_key: "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"
+      api_base: "https://openrouter.ai/api/v1"
